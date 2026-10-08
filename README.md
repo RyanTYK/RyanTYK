@@ -2,7 +2,7 @@
   
 # Hi, I'm Ryan! ヾ(•ω•`)o
 
-### Software Engineering Intern | Full Stack Developer
+### Software Develpoment Engineer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=RyanTYK&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -36,7 +36,7 @@ const ryan = {
 };
 ```
 
-- Currently working as a **Software Engineering Intern**
+- Currently working as a **Software Develpoment Engineer**
 - Building robust systems with modern web technologies
 - Experienced in developing **POS systems** and **Machine Monitoring solutions**
 - Passionate about exploring new domains and expanding my technical expertise
